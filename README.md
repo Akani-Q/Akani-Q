@@ -15,6 +15,7 @@
   .check { stroke-dasharray: 300; stroke-dashoffset: 300; animation: draw 1.5s ease-in-out infinite alternate; }
 </style>
 
+<!-- ⬇️ САМ ЩИТ (ЭТОГО НЕ ХВАТАЕТ!) ⬇️ -->
 <p align="center">
   <svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
     <path class="shield" d="M75 10 L140 40 L140 85 C140 125 115 150 75 165 C35 150 10 125 10 85 L10 40 L75 10Z"
