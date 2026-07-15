@@ -1,1 +1,1 @@
-(https://www.codewars.com/users/Akani-Q/badges)
+https://www.codewars.com/users/Akani-Q
