@@ -1,2 +1,1 @@
-(https://www.codewars.com/users/Akani-Q/badges/large
-)
+(https://www.codewars.com/users/Akani-Q/badges)
