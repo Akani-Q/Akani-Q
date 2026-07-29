@@ -13,3 +13,4 @@
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=plastic&logo=tauri&logoColor=white)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akani-Q&theme=solarized_dark)
