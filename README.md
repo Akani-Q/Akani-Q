@@ -14,4 +14,4 @@
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=plastic&logo=tauri&logoColor=white)
 
 
-![Stats Akani-Q](https://github-readme-stats.vercel.app/api?username=Akani-Q&show_icons=true&theme=radical)
+![Stats Akani-Q](https://github-readme-stats.vercel.app/api?username=Akani-Q&show_icons=true&theme=radical&cache_seconds=86400)
