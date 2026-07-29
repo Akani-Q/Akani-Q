@@ -15,4 +15,4 @@
 
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Akani-Q&label=Visitors&countColor=%23263759)
+![Visitors](https://counters.space/badge/visitors?url=https%3A%2F%2Fgithub.com%2FAkani-Q&style=plastic&color=000000&label=VISITORS)
