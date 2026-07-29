@@ -1,4 +1,3 @@
-![Codewars](https://img.shields.io/badge/Codewars-4%20kyu-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
 ![Codewars Rank](https://www.codewars.com/users/Akani-Q/badges/large)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
