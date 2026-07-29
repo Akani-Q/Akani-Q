@@ -1,5 +1,7 @@
 ![Codewars Rank](https://www.codewars.com/users/Akani-Q/badges/large)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Akani-Q&label=Visitors&countColor=%23263759)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
