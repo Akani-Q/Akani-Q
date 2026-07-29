@@ -14,5 +14,3 @@
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=plastic&logo=tauri&logoColor=white)
 
 
-
-![Visitors](https://counters.space/badge/visitors?url=https%3A%2F%2Fgithub.com%2FAkani-Q&style=plastic&color=000000&label=VISITORS)
