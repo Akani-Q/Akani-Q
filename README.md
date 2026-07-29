@@ -14,5 +14,4 @@
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=plastic&logo=tauri&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akani-Q)](https://github.com/anuraghazra/github-readme-stats)
-
+![Stats Akani-Q](https://github-readme-stats.vercel.app/api?username=Akani-Q&show_icons=true&theme=radical)
