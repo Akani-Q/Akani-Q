@@ -1,6 +1,3 @@
-![Codewars Rank](https://www.codewars.com/users/Akani-Q/badges/large)
-
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=plastic&logo=cmake&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)
